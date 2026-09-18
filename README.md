@@ -41,6 +41,13 @@ RA2. Gestiona dispositius d'emmagatzematge descrivint els procediments efectuats
 - Responsabilitat
 - Resolució de problemes
 
+### Semàfor ús de la IA
+
+🟠 Aquesta activitat permet un ús parcial o restringit.
+
+- Permès per com a eina de suport en la millora de la redacció dels informes, cerca preliminar d'informació, estructuració d'idees o explicació de conceptes teòrics complexos.
+- Condicions: Cal processar, entendre i validar sempre els resultats rebuts. **Està totalment prohibit copiar l'enunciat d'un exercici directament al xat de la IA i enganxar la resposta generada** per al lliurament final sense treball propi ni anàlisi crítica.
+
 ## Enunciat de l'activitat
 
 ### 1. LVM amb Zorin OS
