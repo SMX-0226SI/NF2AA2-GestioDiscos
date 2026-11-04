@@ -1,4 +1,4 @@
-# NF2AA2. Emmagatzematge redundant
+# Gestió emmagatzematge redundant
 
 ## Presentació de l'activitat
 
